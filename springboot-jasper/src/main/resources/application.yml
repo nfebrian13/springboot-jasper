@@ -1,0 +1,8 @@
+spring:
+    application:
+            name: Spring Boot and Jasper Reporting
+    profiles:
+        active: dev
+ 
+server:
+  port: 9099      
